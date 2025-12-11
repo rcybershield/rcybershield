@@ -1,4 +1,4 @@
-### Hello, my name is Rafael. I am a Junior Cybersecurity Analyst in training, and this is my portfolio. 👋.
+### HI am Rafael, a dedicated Cybersecurity Analyst, and I am pleased to share my portfolio with you. 👋.
 
 - 📫 how to reach me: rafaellaporte_dev@outlook.com
 
