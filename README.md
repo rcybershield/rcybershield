@@ -2,14 +2,14 @@
 
 **Cybersecurity Undergraduate | Blue Team & SOC Enthusiast | Full-Stack Developer**
 
-I am a Cybersecurity student at **Senac** (3rd semester) with a strong technical background in software development and Linux administration. Currently focused on **Defensive Security (Blue Team)**, **Threat Detection**, **Log Analysis**, and **Security Automation** using **Python** and **Go**.
+I am a Cybersecurity student at **Senac** (3rd semester) with a strong technical background in software development and Linux administration. Currently focused on **Defensive Security (Blue Team)**, **Threat Detection**, **SOAR Orchestration**, **Log Analysis**, and **Security Automation** using **Python** and **Go**.
 
 ---
 
 ### 🛡️ What I'm Working On (SOC & Purple Team Home Lab)
 
-- 🔭 **SIEM & IDS/IPS Engineering:** Designing and operating a virtualized SOC lab integrating **Wazuh (SIEM/XDR)** and **Suricata (NIDS)** for real-time telemetry, log correlation, and alert triage.
-- ⚙️ **Security Automation:** Developing CLI tools and parsers in **Go (Golang)** and **Python** to automate log analysis, IOC enrichment, and incident triage workflows.
+- 🔭 **SIEM, IDS & SOAR Engineering:** Designing and operating a virtualized SOC lab integrating **Wazuh (SIEM/XDR)**, **Suricata (NIDS)**, and **Shuffle (SOAR)** for real-time telemetry, log correlation, and automated incident response playbooks.
+- ⚙️ **Security Automation:** Developing CLI tools, custom webhooks, and parsers in **Go (Golang)** and **Python** to automate log analysis, IOC enrichment, and incident triage workflows.
 - 🎯 **Threat Hunting & Detection:** Mapping attack simulations to the **MITRE ATT&CK** framework and writing custom detection rules.
 - 🐧 **Systems & Hardening:** Daily driver of **Ubuntu Linux**, experienced with Docker containerization, network traffic inspection (`tcpdump`, Wireshark), and OS hardening.
 
@@ -20,6 +20,7 @@ I am a Cybersecurity student at **Senac** (3rd semester) with a strong technical
 **Security & SOC Operations:**
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata_IDS-E34F26?style=for-the-badge&logo=security&logoColor=white)
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF6C37?style=for-the-badge&logo=fireship&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-C8102E?style=for-the-badge&logo=target&logoColor=white)
 
