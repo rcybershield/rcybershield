@@ -42,7 +42,7 @@ I am a Cybersecurity student at **Senac** (3rd semester) with a strong technical
 
 - 🎓 **A.S. in Cybersecurity (Tecnologia em Segurança Cibernética)** – Centro Universitário Senac *(In Progress)*
 - 🏆 **Google Cybersecurity Professional Certificate** – Coursera / Google
-- 🏆 **Hackers do Bem** – Blue Team Specialization (Defensive Security & SOC)** – RNP / SENAI *(Fundamental, Basic & Blue Team Specialized Track)*
+- 🏆 **Hackers do Bem – Blue Team Specialization (Defensive Security & SOC)** – RNP / SENAI *(Fundamental, Basic & Blue Team Specialized Track)*
 - 🏆 **Cisco Networking & Cybersecurity Certifications**
 
 ---
